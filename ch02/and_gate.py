@@ -1,7 +1,7 @@
 import numpy as np
 
 weight = [0.5,0.5]
-bias = 0.4
+bias = 0.7
 
 def AND(x1,x2):
     x = np.array([x1,x2])
